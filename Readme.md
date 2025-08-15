@@ -18,3 +18,4 @@ Además, esta guía es una oportunidad para aprender conceptos técnicos de info
 1. [Cifrado de extremo a extremo](./Cifrado/extremo-extremo.md "Ir a Cifrado de extremo a extremo")  
    - Introducción al cifrado y su importancia para proteger comunicaciones en línea.  
    - Ejemplos prácticos de herramientas que usan cifrado de extremo a extremo, como Signal.
+2. [Guía de Seguridad en el Internet en Venezuela](./ISP/isp.md "Ir a la Guía de seguridad en el Internet en Venezuela")

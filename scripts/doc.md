@@ -1,5 +1,7 @@
 # Guía de uso de OONI desde la terminal
 
+[Índice de contenido](../Readme.md)
+
 La **Open Observatory of Network Interference (OONI)** es una herramienta de código abierto que permite detectar **censura, manipulación o interferencias** en Internet mediante pruebas técnicas distribuidas.
 El uso desde la terminal (*CLI*) brinda flexibilidad y control total para ejecutar pruebas específicas.
 

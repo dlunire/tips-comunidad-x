@@ -1,7 +1,20 @@
-# Tips de Informática
+# Guía de Seguridad y Conceptos Informáticos
 
-El contenido de estos consejos está orientado a proteger la privacidad de las personas en el contexto venezolano, considerando las particularidades técnicas y legales del entorno digital.
+Bienvenidos a esta guía elaborada por **Códigos del Futuro (@cdelfuturo)**, diseñada para proteger la privacidad y seguridad digital de las personas en el contexto venezolano. 
+
+Aquí abordamos las particularidades técnicas, legales y sociales del entorno digital en Venezuela, ofreciendo herramientas prácticas para navegar de manera segura en Internet y mitigar riesgos como la censura y la vigilancia.
+
+Además, esta guía es una oportunidad para aprender conceptos técnicos de informática de forma accesible, desde principiantes hasta usuarios avanzados, con el objetivo de empoderar a los lectores en el uso responsable de la tecnología.
+
+## Objetivos de la guía
+
+- **Proteger tu privacidad**: Proporcionar estrategias para salvaguardar tus datos frente a bloqueos, interceptaciones y otras amenazas en el entorno digital venezolano.
+
+- **Educar en conceptos técnicos**: Explicar fundamentos de informática, como el cifrado y la seguridad en redes, de manera clara y práctica.
+  
+- **Fomentar la autonomía digital**: Equipar a los usuarios con herramientas y conocimientos para enfrentar los retos del contexto local, como la censura y la vigilancia masiva.
 
 ## Índice de contenido
-
-1. [Explicación básica de cifrado extremo a extremo](./Cifrado/extremo-extremo.md "Ir a cifrado de extremo a extremo")
+1. [Cifrado de extremo a extremo](./Cifrado/extremo-extremo.md "Ir a Cifrado de extremo a extremo")  
+   - Introducción al cifrado y su importancia para proteger comunicaciones en línea.  
+   - Ejemplos prácticos de herramientas que usan cifrado de extremo a extremo, como Signal.

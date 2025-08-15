@@ -1,7 +1,15 @@
 #!/bin/bash
 
-sudo dpkg /root/.gnupg
-sudo chmod 600 /root/.gnupg
+# Autor: Códigos del Futuro (@cdelfuturo)
+# Fecha de creación: 15 de agosto de 2025
+# Descripción: Script para instalar OONI (Open Observatory of Network Interference) en Debian/Ubuntu.
+# Requisitos: Acceso root o sudo, conexión a internet.
+
+# Crear el directorio para la clave GPG si no existe
+sudo mkdir -p /root/.gnupg
+
+# Establecer permisos seguros para el directorio
+sudo chmod 700 /root/.gnupg
 
 # Este script instala OONI (Open Observatory of Network Interference) en un sistema basado en Debian/Ubuntu.
 

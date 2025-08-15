@@ -1,5 +1,7 @@
 # Cifrado de Extremo a Extremo (E2EE)
 
+[Índice de contenido](../Readme.md)
+
 ## ¿Qué es?
 
 Es un método de cifrado en el que el contenido del mensaje se cifra en el dispositivo del emisor y **solo puede descifrarse en el dispositivo del receptor**. Ningún intermediario —incluidos servidores de la aplicación— puede acceder al contenido en texto plano.

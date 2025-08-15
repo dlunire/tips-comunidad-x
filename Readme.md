@@ -1,5 +1,7 @@
-# TIPS DE INFORMÁTICA
+# Tips de Informática
 
-Tips de informática para la comunidad de X.
+El contenido de estos consejos está orientado a proteger la privacidad de las personas en el contexto venezolano, considerando las particularidades técnicas y legales del entorno digital.
 
-En desarrollo.
+## Índice de contenido
+
+1. [Cifrado de extremo a extremo](extremo-extremo "Ir a cifrado de extremo a extremo")

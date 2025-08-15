@@ -14,6 +14,12 @@ O múltiples sitios Web:
 ooniprobe run websites --input-file websites-example.txt
 ```
 
+Después que hayas realizado varias pruebas o experimentos, puedes ejecutar el siguiente comando:
+
+```bash
+ooniprobe list
+```
+
 ## Ampliar información de uso
 
 Puede consultar la documentación oficial de [onni.org][0]

@@ -20,6 +20,10 @@ Después que hayas realizado varias pruebas o experimentos, puedes ejecutar el s
 ooniprobe list
 ```
 
+Dando como resultado la siguiente imagen:
+
+![Captura de pantalla](../assets/capture.png "Captura de pantalla")
+
 ## Ampliar información de uso
 
 Puede consultar la documentación oficial de [onni.org][0]

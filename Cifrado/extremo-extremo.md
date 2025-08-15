@@ -130,9 +130,7 @@ Aunque el **cifrado de extremo a extremo (E2EE)** protege el contenido de las co
 
 ## Contexto legal en Venezuela
 
-En Venezuela, la vigilancia de metadatos puede estar amparada por regulaciones como la **Ley de Responsabilidad Social en Radio, Televisión y Medios Electrónicos** y otras normativas que permiten el monitoreo de comunicaciones sin transparencia ni supervisión judicial. Esto hace que el uso de herramientas como **Signal** y **VPNs** sea aún más crítico para proteger tu privacidad.
-
-> **Nota:** asumiendo que se cumpla la ley, pero en la práctica no existe ninguna legalidad en Venezuela, por lo que debe tomar precaución debido a que no existe amparo legal en la práctica.
+En Venezuela no existe ningún amparo legal en la práctica (por vía de hecho), por lo que debe tomar medidas para protegerse.
 
 ## Recomendaciones finales
 

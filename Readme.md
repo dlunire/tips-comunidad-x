@@ -15,8 +15,9 @@ Además, esta guía es una oportunidad para aprender conceptos técnicos de info
 - **Fomentar la autonomía digital**: Equipar a los usuarios con herramientas y conocimientos para enfrentar los retos del contexto local, como la censura y la vigilancia masiva.
 
 ## Índice de contenido
-1. [Cifrado de extremo a extremo](./Cifrado/extremo-extremo.md "Ir a Cifrado de extremo a extremo")  
-2. [Guía de Seguridad en el Internet en Venezuela](./ISP/isp.md "Ir a la Guía de seguridad en el Internet en Venezuela")
+1. [Cifrado de extremo a extremo](./Cifrado/extremo-extremo.md "Ir a Cifrado de extremo a extremo").
+2. [Guía de Seguridad en el Internet en Venezuela](./ISP/isp.md "Ir a la Guía de seguridad en el Internet en Venezuela").
+3. [Doxeo o *Doxing*](./Otros/doxing.md "Prevención de doxeo").
 
 > **IMPORTANTE:**
 >

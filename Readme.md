@@ -17,3 +17,9 @@ Además, esta guía es una oportunidad para aprender conceptos técnicos de info
 ## Índice de contenido
 1. [Cifrado de extremo a extremo](./Cifrado/extremo-extremo.md "Ir a Cifrado de extremo a extremo")  
 2. [Guía de Seguridad en el Internet en Venezuela](./ISP/isp.md "Ir a la Guía de seguridad en el Internet en Venezuela")
+
+> **IMPORTANTE:**
+>
+> Esta guía se va a ir actualizando progresivamente con el objeto de ayudar a mitigar los riesgos de las personas que se encuentran en Venezuela, pero también como punto de partida para aprender conceptos informáticos.
+>
+> Tome en cuenta que esta guía se encuentra en etapas muy temprana.

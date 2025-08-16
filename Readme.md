@@ -19,6 +19,7 @@ Además, esta guía es una oportunidad para aprender conceptos técnicos de info
 2. [Guía de Seguridad en el Internet en Venezuela](./ISP/isp.md "Ir a la Guía de seguridad en el Internet en Venezuela").
 3. [Doxeo o *Doxing*](./Otros/doxing.md "Prevención de doxeo").
 4. [Probar Sitios Web para determinar si están bloqueados](./scripts/doc.md "Pruebe si sus sitios Web se encuentran bloqueados por el ISP").
+5. [framework de OSINT (Inteligencia de Fuentes Abiertas)](./Otros/phomber.md "framework de OSINT (Inteligencia de Fuentes Abiertas) - Herramienta Forense").
 
 > **IMPORTANTE:**
 >

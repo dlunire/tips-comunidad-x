@@ -20,6 +20,7 @@ Además, esta guía es una oportunidad para aprender conceptos técnicos de info
 3. [Doxeo o *Doxing*](./Otros/doxing.md "Prevención de doxeo").
 4. [Probar Sitios Web para determinar si están bloqueados](./scripts/doc.md "Pruebe si sus sitios Web se encuentran bloqueados por el ISP").
 5. [Framework de OSINT (Inteligencia de Fuentes Abiertas)](./Otros/phomber.md "framework de OSINT (Inteligencia de Fuentes Abiertas) - Herramienta Forense").
+6. [Extensión de dominio y consultas de dirección IP](./Otros/consultar-ip.md "Extensión de dominio y consultas de dirección IP").
 
 > **IMPORTANTE:**
 >
